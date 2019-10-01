@@ -1,4 +1,4 @@
-# Biochemistry-lab-
+# Laboratorio de Bioquímica
 
 <img src='pageHeaderLogoImage_es_ES.png'>
 Datos informe laboratorio de bioquímica II-2019
